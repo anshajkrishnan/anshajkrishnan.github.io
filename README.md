@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshajkrishnan
 - 👀 I’m interested in AI-ML/Cloud Technology
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...CV,Data Visualization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Drop a mail -> anshajkrishnan@gmail.com
 
